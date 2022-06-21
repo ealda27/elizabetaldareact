@@ -1,8 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom';
 import { Nav, Navbar, NavDropdown, Container} from 'react-bootstrap';
-
-//import { BsCart3 } from 'react-icons/bs';
+import { BsCart3 } from 'react-icons/bs';
 
 function NavBar() {
     return (
